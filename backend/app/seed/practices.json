@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Breath Awareness",
+    "tradition": "Yoga",
+    "duration_minutes": 10,
+    "purpose": "Steady the mind and cultivate present-moment awareness.",
+    "benefits": "Calm, focus, emotional balance",
+    "common_mistakes": "Forcing the breath, expecting instant silence"
+  },
+  {
+    "id": 2,
+    "name": "Self-Inquiry",
+    "tradition": "Vedanta",
+    "duration_minutes": 15,
+    "purpose": "Investigate the sense of I and rest as awareness.",
+    "benefits": "Clarity, disidentification from thought, depth",
+    "common_mistakes": "Turning inquiry into mental argument, forcing conclusions"
+  },
+  {
+    "id": 3,
+    "name": "Heartfulness Meditation",
+    "tradition": "Heartfulness",
+    "duration_minutes": 20,
+    "purpose": "Meditate lightly on the heart as a source of inner light and stillness.",
+    "benefits": "Inner softness, centeredness, emotional quietude",
+    "common_mistakes": "Straining to visualize, trying too hard"
+  }
+]

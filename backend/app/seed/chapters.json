@@ -1,0 +1,6 @@
+[
+  { "id": 1, "source_id": 1, "chapter_number": 2, "title": "Sankhya Yoga" },
+  { "id": 2, "source_id": 1, "chapter_number": 6, "title": "Dhyana Yoga" },
+  { "id": 3, "source_id": 2, "chapter_number": 1, "title": "Isha Upanishad" },
+  { "id": 4, "source_id": 3, "chapter_number": 1, "title": "Katha Upanishad Part 1" }
+]

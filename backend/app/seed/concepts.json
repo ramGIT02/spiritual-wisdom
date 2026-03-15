@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Atman",
+    "short_definition": "The innermost Self, deeper than body and mind.",
+    "detailed_explanation": "In Vedantic traditions, Atman refers to the deepest reality of the individual, not the ego-personality."
+  },
+  {
+    "id": 2,
+    "name": "Dharma",
+    "short_definition": "Right order, duty, and living in alignment with truth.",
+    "detailed_explanation": "Dharma can mean cosmic order, ethical responsibility, and one's rightful way of living or acting."
+  },
+  {
+    "id": 3,
+    "name": "Nonduality",
+    "short_definition": "The insight that reality is not ultimately divided into separate independent selves and things.",
+    "detailed_explanation": "In Advaita Vedanta, nonduality points to the identity of Atman and Brahman."
+  }
+]

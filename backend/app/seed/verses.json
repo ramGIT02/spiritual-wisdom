@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "source_id": 1,
+    "chapter_id": 1,
+    "chapter_number": 2,
+    "verse_number": 20,
+    "canonical_reference": "Bhagavad Gita 2.20",
+    "sanskrit": "? ????? ??????? ?? ???????...",
+    "transliteration": "na jayate mriyate va kadacin...",
+    "translation": "The Self is never born, nor does it die.",
+    "explanation": "Krishna teaches that the deepest Self is not destroyed by bodily change.",
+    "life_application": "Remember that identity is deeper than passing conditions."
+  },
+  {
+    "id": 2,
+    "source_id": 1,
+    "chapter_id": 1,
+    "chapter_number": 2,
+    "verse_number": 47,
+    "canonical_reference": "Bhagavad Gita 2.47",
+    "sanskrit": "??????????????????? ?? ????? ?????...",
+    "transliteration": "karmany evadhikaras te ma phalesu kadacana...",
+    "translation": "You have a right to action alone, never to its fruits.",
+    "explanation": "This is a foundational teaching on disciplined action without attachment to outcome.",
+    "life_application": "Act sincerely, but do not let anxiety over results dominate your mind."
+  },
+  {
+    "id": 3,
+    "source_id": 1,
+    "chapter_id": 2,
+    "chapter_number": 6,
+    "verse_number": 26,
+    "canonical_reference": "Bhagavad Gita 6.26",
+    "sanskrit": "??? ??? ???????? ?????????????????...",
+    "transliteration": "yato yato niscalati manas cancalam asthiram...",
+    "translation": "Wherever the restless mind wanders, bring it back under the control of the Self.",
+    "explanation": "Meditation is the repeated gentle return of attention.",
+    "life_application": "Do not judge yourself for distraction. The return itself is the practice."
+  }
+]

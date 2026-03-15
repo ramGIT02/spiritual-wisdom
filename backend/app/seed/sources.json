@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Bhagavad Gita",
+    "tradition": "Hinduism",
+    "source_type": "scripture",
+    "description": "Dialogue between Krishna and Arjuna on duty, self, action, devotion, and liberation.",
+    "chapters_count": 18
+  },
+  {
+    "id": 2,
+    "title": "Isha Upanishad",
+    "tradition": "Vedanta",
+    "source_type": "scripture",
+    "description": "A concise Upanishad exploring the Self, action, and fullness.",
+    "chapters_count": 1
+  },
+  {
+    "id": 3,
+    "title": "Katha Upanishad",
+    "tradition": "Vedanta",
+    "source_type": "scripture",
+    "description": "Dialogue between Nachiketa and Yama on death, immortality, and the Self.",
+    "chapters_count": 2
+  }
+]
