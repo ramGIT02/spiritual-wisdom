@@ -6,7 +6,7 @@ class Settings(BaseSettings):
     app_env: str = "development"
     app_debug: bool = True
     database_url: str
-    cors_origins: str = "http://localhost:3000"
+    cors_origins: str = "http://localhost:3000,https://spiritual-wisdom-web.vercel.app"
     openai_api_key: str = ""
     embedding_model: str = "text-embedding-3-small"
     chat_model: str = "gpt-5-mini"

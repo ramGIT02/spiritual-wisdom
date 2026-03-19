@@ -15,9 +15,13 @@ app = FastAPI(
     description="API for scriptures, concepts, practices, daily wisdom, and grounded spiritual Q&A.",
 )
 
+origins = [origin.strip() for origin in settings.cors_origins.split(",") if origin.strip()]
+
+print("Loaded CORS origins:", origins)
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[origin.strip() for origin in settings.cors_origins.split(",") if origin.strip()],
+    allow_origins=origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
