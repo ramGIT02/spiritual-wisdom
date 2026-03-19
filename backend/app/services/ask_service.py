@@ -10,6 +10,7 @@ from app.services.retrieval_service import retrieve_chunks
 
 def answer_question(db: Session, payload: AskRequest) -> AskResponse:
     retrieved = retrieve_chunks(db, payload.question, settings.top_k_retrieval)
+    print(f"[DEBUG] Retrieved chunks for question '{payload.question}': {retrieved}")
     prompt = build_ask_prompt(payload.question, payload.mode, retrieved)
 
     response = client.responses.create(
