@@ -68,6 +68,8 @@ def rebuild_chunks(db: Session):
 
 
 if __name__ == "__main__":
+    from app.core.config import settings
+    print(f"[DEBUG] Using DATABASE_URL: {settings.database_url}")
     db = SessionLocal()
     try:
         rebuild_chunks(db)

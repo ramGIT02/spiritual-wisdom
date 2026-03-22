@@ -8,9 +8,8 @@ class Base(DeclarativeBase):
     pass
 
 
-engine = create_engine(settings.database_url, future=True)
-SessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)
-
+engine = create_engine(settings.database_url)
+SessionLocal = sessionmaker(bind=engine)
 
 def get_db():
     db = SessionLocal()
